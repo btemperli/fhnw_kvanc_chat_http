@@ -1,0 +1,14 @@
+
+-
+ch.fhnw.kvan.chat.servlet.client.Client localhost 6666 daniel
+ch.fhnw.kvan.chat.servlet.client.Client localhost 6666 carmen
+ch.fhnw.kvan.chat.servlet.client.Client localhost 6666 patrick
+ch.fhnw.kvan.chat.servlet.client.Client localhost 6666 beat
+-
+ch.fhnw.kvan.chat.servlet.client.Client localhost:8080/chat/Server alice
+ch.fhnw.kvan.chat.servlet.client.Client localhost:8080/chat/Server john
+ch.fhnw.kvan.chat.servlet.client.Client localhost:8080/chat/Server mary
+-
+ch.fhnw.kvan.chat.servlet.client.Client localhost:8081/chat/Server peter
+-
+
